@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreza-BBatista
 - 👀 I’m interested in music and games
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: 'andreza.bbatista@outlook.com'
 - 😄 Pronouns: She/Her
